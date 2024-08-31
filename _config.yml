@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Electrical Engineer/Software Engineer"
   location         : "San Jose, California"
-  employer         : "SCE"
+  employer         : #"SCE"
   uri              : # URL
   email            : "lzjee1025@gmail.com" 
 
