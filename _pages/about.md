@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 I am an senior engineer from SCE. I graduacted with PhD degree in EECS, University of Maryland, College Park.
-You could find my github here:[Github] (https://github.com/zijie93/)
+You could find my github here: https://github.com/zijie93/
